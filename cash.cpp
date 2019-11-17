@@ -24,3 +24,4 @@ int main() {
         cout << "個";
     } while (money >= 10000);    
 } 
+// 655350 劉宥麟
